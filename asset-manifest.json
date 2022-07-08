@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sipua-email-dashboard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sipua-email-dashboard/static/js/main.c728fb7c.chunk.js",
+    "main.js.map": "/sipua-email-dashboard/static/js/main.c728fb7c.chunk.js.map",
+    "runtime-main.js": "/sipua-email-dashboard/static/js/runtime-main.f7266694.js",
+    "runtime-main.js.map": "/sipua-email-dashboard/static/js/runtime-main.f7266694.js.map",
+    "static/js/2.af1c6a22.chunk.js": "/sipua-email-dashboard/static/js/2.af1c6a22.chunk.js",
+    "static/js/2.af1c6a22.chunk.js.map": "/sipua-email-dashboard/static/js/2.af1c6a22.chunk.js.map",
+    "static/js/3.e8285078.chunk.js": "/sipua-email-dashboard/static/js/3.e8285078.chunk.js",
+    "static/js/3.e8285078.chunk.js.map": "/sipua-email-dashboard/static/js/3.e8285078.chunk.js.map",
+    "index.html": "/sipua-email-dashboard/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sipua-email-dashboard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.af1c6a22.chunk.js.LICENSE.txt": "/sipua-email-dashboard/static/js/2.af1c6a22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7266694.js",
+    "static/js/2.af1c6a22.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c728fb7c.chunk.js"
+  ]
+}
